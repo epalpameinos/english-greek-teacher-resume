@@ -1,6 +1,6 @@
 # Objective
 
-A personal website, a resume website, for an English & Greek Teacher located at Limassol, Cyprus.
+A personal website, a resume website, for my sister, an English & Greek Teacher located at Limassol, Cyprus.
 
 ---
 
